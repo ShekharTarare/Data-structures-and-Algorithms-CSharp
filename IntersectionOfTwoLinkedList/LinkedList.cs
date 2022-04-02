@@ -34,8 +34,8 @@ namespace IntersectionOfTwoLinkedList
 
             while (headA != headB)
             {
-                headA = headA == null ? headA = B : headA.next;
-                headB = headB == null ? headB = A : headB.next;
+                headA = headA == null ? B : headA.next;
+                headB = headB == null ? A : headB.next;
             }
             return headA;
         }
