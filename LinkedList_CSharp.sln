@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheLinkedList", "Rev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenLinkedList", "OddEvenLinkedList\OddEvenLinkedList.csproj", "{23264FD6-6E53-4763-80EE-E6F9681C0568}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeLinkedList", "PalindromeLinkedList\PalindromeLinkedList.csproj", "{A7F0DCFF-A3EC-43EA-BCB4-5CD89AC86EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{23264FD6-6E53-4763-80EE-E6F9681C0568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23264FD6-6E53-4763-80EE-E6F9681C0568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23264FD6-6E53-4763-80EE-E6F9681C0568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7F0DCFF-A3EC-43EA-BCB4-5CD89AC86EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F0DCFF-A3EC-43EA-BCB4-5CD89AC86EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F0DCFF-A3EC-43EA-BCB4-5CD89AC86EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F0DCFF-A3EC-43EA-BCB4-5CD89AC86EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
