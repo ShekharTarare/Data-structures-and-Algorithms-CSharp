@@ -150,6 +150,7 @@ namespace LeetCode_DesignSinglyLinkedList
             myLinkedList.Display();
             myLinkedList.DeleteAtIndex(5);
             myLinkedList.Display();
+            Console.ReadKey();
         }
     }
 
